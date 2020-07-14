@@ -3,7 +3,7 @@ Source: http://allrecipes.com/recipe/162760/fluffy-pancakes/
 "Tall and fluffy. These pancakes are just right. Topped with strawberries and whipped cream, they are impossible to resist."
 Ingredients
 3/4 cup milk
-2 tablespoons white vinegar
+1 tablespoons white vinegar
 1 cup all-purpose flour
 2 tablespoons white sugar
 1 teaspoon baking powder
